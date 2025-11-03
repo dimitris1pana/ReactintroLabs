@@ -1,4 +1,6 @@
 ## Getting Started
+###Node Installation
+https://nodejs.org/en/download
 
 ```bash
 npm create vite@latest my-first-react-app -- --template react
