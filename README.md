@@ -2,6 +2,8 @@
 ### Node Installation
 https://nodejs.org/en/download
 
+### React vite Installation 
+Having installed npm (node) in previous step do the following: 
 ```bash
 npm create vite@latest my-first-react-app -- --template react
 cd my-first-react-app
