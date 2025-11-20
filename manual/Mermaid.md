@@ -20,8 +20,7 @@ flowchart TD
     
     E --> E1[4.1 Remove Tea Bag]
     E --> E2[4.2 Add Milk/Sugar if desired]
-    E --> E3[4.3 Stir and Serve]    
-
+    E --> E3[4.3 Stir and Serve]
 ```
 
 ### Ordering a pizza using a food delivery app
